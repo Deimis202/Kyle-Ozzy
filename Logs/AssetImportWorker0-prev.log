@@ -1,0 +1,322 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 16265 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Dzima/Kyle & Ozzy
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51479
+Successfully changed project path to: C:/Users/Dzima/Kyle & Ozzy
+C:/Users/Dzima/Kyle & Ozzy
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Dzima/Kyle & Ozzy/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6677
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56664
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002756 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 26.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.221 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000772 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.912 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.3 MB.
+System memory in use after: 70.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 2.537200 ms (FindLiveObjects: 0.202700 ms CreateObjectMapping: 0.151000 ms MarkObjects: 2.040800 ms  DeleteObjects: 0.141800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(84122e001e8661445ab7a2361d16ec16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(84122e001e8661445ab7a2361d16ec16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35224169ef0e14cf96e52a00b6f136c5') in 0.041608 seconds
+  Import took 0.043808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(22d91b0ecce05b040a7611d2dc276f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(22d91b0ecce05b040a7611d2dc276f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bf0dbe68c614e37746972fd90cbe9ca') in 0.012305 seconds
+  Import took 0.014491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.011008 seconds.
+  path: Assets/OtherStuff/New Terrain.asset
+  artifactKey: Guid(e42feace94db1f6418d0cd472463a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherStuff/New Terrain.asset using Guid(e42feace94db1f6418d0cd472463a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04644dc58d5be0cb01e8990ae3a80365') in 0.047854 seconds
+  Import took 0.050454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.422213 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(84122e001e8661445ab7a2361d16ec16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(84122e001e8661445ab7a2361d16ec16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef8b666ecbd9a1538202fe0e69037ad') in 0.008018 seconds
+  Import took 0.010640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.043561 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Chainsaw.mat
+  artifactKey: Guid(5cf270decc063754aad30401eb669848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Chainsaw.mat using Guid(5cf270decc063754aad30401eb669848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '157a9f308e470d08f0aed96fa683e46e') in 0.076001 seconds
+  Import took 0.079389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Water.mat
+  artifactKey: Guid(662d04633b4867d4a921c98e14930338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Water.mat using Guid(662d04633b4867d4a921c98e14930338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99fc8a7381cf5331944d51cebb647594') in 0.021344 seconds
+  Import took 0.025437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Explosive Barrel.mat
+  artifactKey: Guid(15c0113d29c090640b70ecbcc5054b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Explosive Barrel.mat using Guid(15c0113d29c090640b70ecbcc5054b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d597cf6a08c479313655a8ae691677') in 0.019743 seconds
+  Import took 0.022688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Grass.mat
+  artifactKey: Guid(2576bb136211eab4d91f609633f27379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Grass.mat using Guid(2576bb136211eab4d91f609633f27379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc0d126e0fca0b64aeb8ef98e0d2cec7') in 0.016887 seconds
+  Import took 0.021302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Meat.mat
+  artifactKey: Guid(d1116d347580166479e47039a09b37b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Meat.mat using Guid(d1116d347580166479e47039a09b37b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931e0eb13cb27bccea372ba9b65491d6') in 0.019809 seconds
+  Import took 0.023478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001401 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Color Pallet_Transparent.mat
+  artifactKey: Guid(cf021b26f40233541ac3a897717eb028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Color Pallet_Transparent.mat using Guid(cf021b26f40233541ac3a897717eb028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1f4222ee63602e3faef012d2114e8c') in 0.018712 seconds
+  Import took 0.021858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Plane.mat
+  artifactKey: Guid(36bd87f215d0a9744b993d7188da7cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Plane.mat using Guid(36bd87f215d0a9744b993d7188da7cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af4299147d49d563a7c2dbaf1c59ed39') in 0.016872 seconds
+  Import took 0.021670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/M1911.mat
+  artifactKey: Guid(86c2f1d2edd923946aa9cbe4b16e1b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/M1911.mat using Guid(86c2f1d2edd923946aa9cbe4b16e1b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03377de15f97b7ad1d9102d2f359ca3d') in 0.018416 seconds
+  Import took 0.021076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Color Pallet.mat
+  artifactKey: Guid(090317af53e74544b9c80bc81be61ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Color Pallet.mat using Guid(090317af53e74544b9c80bc81be61ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55fac8943284e8fc655ee8c3cd134e57') in 0.016156 seconds
+  Import took 0.019913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Yellow Leaves.mat
+  artifactKey: Guid(31d4ce98f33b3154d81cb1bdf85cb897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Yellow Leaves.mat using Guid(31d4ce98f33b3154d81cb1bdf85cb897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5382ed5219631bd9e814272596e2ef') in 0.020442 seconds
+  Import took 0.025975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Red Leaves.mat
+  artifactKey: Guid(eb47db1ece82a2145bf593eebb1e6553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Red Leaves.mat using Guid(eb47db1ece82a2145bf593eebb1e6553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc65215e38f9e92b8c72e5eda8bccd6f') in 0.017891 seconds
+  Import took 0.020993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Green Leaves.mat
+  artifactKey: Guid(e4959fdea8cc9d14da004b1ac9c1ad10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Green Leaves.mat using Guid(e4959fdea8cc9d14da004b1ac9c1ad10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4714f4b6a3d668316931e985cdde2fa0') in 0.013464 seconds
+  Import took 0.016596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/assets/Low Poly Survival Kit/Materials/Snack.mat
+  artifactKey: Guid(91a16e124c695974bac395896073eca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/assets/Low Poly Survival Kit/Materials/Snack.mat using Guid(91a16e124c695974bac395896073eca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b329e060e598396e6009c3f0a38632ac') in 0.017779 seconds
+  Import took 0.020746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.039266 seconds.
+  path: Assets/materials/green.mat
+  artifactKey: Guid(7c99ebecfba7fa943a806e5bdd6e42ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/green.mat using Guid(7c99ebecfba7fa943a806e5bdd6e42ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6361b2ffa3c871215d5384e26a5f7f') in 0.014408 seconds
+  Import took 0.017229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 957.481085 seconds.
+  path: Assets/texture/TexturesCom_Gravel0120_1_seamless_S.jpg
+  artifactKey: Guid(135f4844477bff749bfc711f0a4745db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/texture/TexturesCom_Gravel0120_1_seamless_S.jpg using Guid(135f4844477bff749bfc711f0a4745db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0ef065c79fd7f517fccbda70661564c') in 0.065889 seconds
+  Import took 0.068802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 334.043205 seconds.
+  path: Assets/texture/TexturesCom_Grass0130_1_seamless_S.jpg
+  artifactKey: Guid(73c4f7b9283746f4095428f4f8f2be65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/texture/TexturesCom_Grass0130_1_seamless_S.jpg using Guid(73c4f7b9283746f4095428f4f8f2be65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff205af7b974208c353acda38fad584') in 0.016106 seconds
+  Import took 0.019450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.799133 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(4cdee9f85aca0ac49a57fa0995716150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(4cdee9f85aca0ac49a57fa0995716150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18f9a65ddf63a92efce3be7f740c897') in 0.007477 seconds
+  Import took 0.010216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1260.386462 seconds.
+  path: Assets/texture/NewLayer.terrainlayer
+  artifactKey: Guid(0f1945b09552119468611b3bba4da564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/texture/NewLayer.terrainlayer using Guid(0f1945b09552119468611b3bba4da564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ae723bff96b1667df979b8715c4c98') in 0.030776 seconds
+  Import took 0.034198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 376.039260 seconds.
+  path: Assets/texture/NewLayer 1.terrainlayer
+  artifactKey: Guid(e7014c14faee2d84a9081ce1a0d6ca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/texture/NewLayer 1.terrainlayer using Guid(e7014c14faee2d84a9081ce1a0d6ca32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f515cff7b0a4c4d97be9fb319a7ecc7d') in 0.017726 seconds
+  Import took 0.020553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.231375 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(22d91b0ecce05b040a7611d2dc276f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(22d91b0ecce05b040a7611d2dc276f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23fd4f6cec638e14d29fd27450869fe2') in 0.019087 seconds
+  Import took 0.022665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(4cdee9f85aca0ac49a57fa0995716150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(4cdee9f85aca0ac49a57fa0995716150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b19b3b026eedc0e866b0a1e691759c') in 0.019221 seconds
+  Import took 0.022087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.307354 seconds.
+  path: Assets/OtherStuff/New Terrain.asset
+  artifactKey: Guid(84122e001e8661445ab7a2361d16ec16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OtherStuff/New Terrain.asset using Guid(84122e001e8661445ab7a2361d16ec16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d7e301f99516615a9df09f985ad237') in 0.018862 seconds
+  Import took 0.021711 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000783 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.092 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.6 MB.
+System memory in use after: 73.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 2.354400 ms (FindLiveObjects: 0.287200 ms CreateObjectMapping: 0.161600 ms MarkObjects: 1.837500 ms  DeleteObjects: 0.066000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000719 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.012 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.6 MB.
+System memory in use after: 73.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1628.
+Total: 2.216500 ms (FindLiveObjects: 0.185600 ms CreateObjectMapping: 0.075900 ms MarkObjects: 1.878300 ms  DeleteObjects: 0.074600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
